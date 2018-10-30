@@ -43,4 +43,9 @@ p {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
+}
+
+.FootNav {
+  color: white;
 }
